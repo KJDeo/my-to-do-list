@@ -17,6 +17,7 @@ h2 {
 
 .btn {
     padding: 20px;
+
 }
 
 .month {
@@ -24,4 +25,8 @@ h2 {
     color: rgba(255, 255, 255, 0.153);
     padding-right: 0px;
     font-size: 40px;
+}
+
+.btncolor {
+    background-color: transparent;
 }
