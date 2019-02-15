@@ -1,3 +1,27 @@
 body {
-    background-color: rgb(0, 123, 255)
+    background-color: rgb(145, 194, 247);
+    text-align: center
+}
+
+h1 {
+}
+
+h2 {
+    
+}
+
+.space {
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+
+.btn {
+    padding: 20px;
+}
+
+.month {
+    text-align: right;
+    color: rgba(255, 255, 255, 0.153);
+    padding-right: 0px;
+    font-size: 40px;
 }
