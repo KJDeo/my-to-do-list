@@ -13,6 +13,7 @@ h2 {
 .space {
     line-height: 30px;
     padding-bottom: 30px;
+    text-align: left;
 }
 
 .btn {
